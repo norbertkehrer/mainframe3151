@@ -81,7 +81,8 @@ terminal connections at telnet port number 3270.
 
 I made a video about this. You can watch it here:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/81O9tI8lMpc/0.jpg)](https://www.youtube.com/watch?v=81O9tI8lMpc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V14ac9cRi9Q/0.jpg)](https://www.youtube.com/watch?v=V14ac9cRi9Q)
+
 
 
 
